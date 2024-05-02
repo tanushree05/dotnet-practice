@@ -3,6 +3,7 @@
 //task performed - 1.
 
 using System;
+//name space decleration - 
 
 class Program1
 {
